@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Jolicloud
+Comment=This session logs you into Jolicloud
+Exec=awesome -c /usr/share/jolicloud-awesome/rc.lua
+Type=Application
