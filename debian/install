@@ -1,2 +1,4 @@
+jde /usr/bin
 jolicloud-awesome /usr/share
 jolicloud.desktop /usr/share/xsessions
+custom_jolicloud_badge.png /usr/share/unity-greeter
