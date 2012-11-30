@@ -1,3 +1,10 @@
+jolicloud-desktop-environment (0.1.3) precise; urgency=low
+
+  * Fixed systray colors.
+  * Disabled some debugging key shortcuts.
+
+ -- Jérémy Bethmont <jerem@jolicloud.org>  Fri, 30 Nov 2012 14:05:59 +0000
+
 jolicloud-desktop-environment (0.1.2) precise; urgency=low
 
   * Added jde binary with correct LUA_PATH.
